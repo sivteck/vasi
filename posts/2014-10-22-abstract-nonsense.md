@@ -12,7 +12,7 @@ Abstract Algebra
 Set __A__ that has a binary operation __( * )__ defined on it can be represented as
 __( A , * )__
 
-^ that thing is called a binary structure.
+That representation is called as a binary structure.
 
 Monoid
 ------
