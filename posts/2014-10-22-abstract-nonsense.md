@@ -25,7 +25,8 @@ Monoid is a binary structure __( M , * )__ satisfying the properties
 __Theorems__:
 
 1. The identity element is unique.
- 
+TODO 
+
 Groups
 ======
 
@@ -41,3 +42,9 @@ __Theorems__:
 
 1. The inverse of any element is unique
 2. 
+TODO
+
+Rings
+=====
+
+
