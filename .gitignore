@@ -1,5 +1,5 @@
 _cache/
 _site/
 site
-.hi
-.o
+*.hi
+*.o
