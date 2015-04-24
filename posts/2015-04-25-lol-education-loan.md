@@ -14,7 +14,7 @@ Help people understand this before/after they take an education loan!
 Examples:
 =========
 
-Yoda Rajendran- Rs. 3 Lakh
+Yoda Rajendran - Rs. 3 Lakh
 -----------------
 
 Yoda Rajendran took an education loan of total Rs. 3 Lakhs for his engineering degree. 
